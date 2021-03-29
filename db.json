@@ -1,0 +1,37 @@
+{
+  "register": [
+    {
+      "user": [
+        {
+          "data": [
+            {
+              "id": 1,
+              "email": "a@a.com",
+              "first_name": "a",
+              "last_name": "a",
+              "password": "a",
+              "password_confirm": "a"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "email": "a@a.com",
+      "password": "a"
+    },
+    {
+      "email": "a@a.com",
+      "password": "a",
+      "id": 2
+    },
+    {
+      "email": "a@a.com",
+      "password": "a",
+      "id": 3
+    }
+  ]
+}
